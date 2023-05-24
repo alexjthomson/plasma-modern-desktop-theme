@@ -6,7 +6,7 @@
 
 ```
 cd ~/.local/share/plasma/desktoptheme/
-git clone https://github.com/alexjthomson1882/plasma-modern
+git clone https://github.com/alexjthomson1882/plasma-modern-desktop-theme
 ```
 
 To use the Plasma theme, open the Plasma theme settings and pick "Plasma Modern".
