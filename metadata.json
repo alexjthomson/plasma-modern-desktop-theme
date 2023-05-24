@@ -1,0 +1,19 @@
+ {
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alex Thomson",
+                "Email": "alexjthomson1882@gmail.com"
+            }
+        ],
+        "Category": "",
+        "Description": "A modern KDE Plasma theme.",
+        "EnabledByDefault": false,
+        "Id": "modern-plasma",
+        "License": "GPL3.0",
+        "Name": "Modern Plasma",
+        "Version": "1.0.0",
+        "Website": "https://alexthomson.dev"
+    },
+    "X-Plasma-API": "5.0"
+}
