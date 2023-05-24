@@ -131,6 +131,9 @@ ForegroundPositive=39,174,96
 ForegroundVisited=120,120,120
 
 [General]
+ColorScheme=Modern Plasma
+Name=Modern Plasma
+TitlebarIsAccentColored=true
 shadeSortColumn=true
 
 [KDE]
